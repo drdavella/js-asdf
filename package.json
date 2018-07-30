@@ -1,0 +1,15 @@
+{
+  "name": "js-asdf",
+  "version": "1.0.0",
+  "description": "JavaScript implementation of the Advanced Scientific Data Format (ASDF)",
+  "main": "asdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dan D'Avella",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^16.2.2",
+    "js-yaml": "^3.12.0"
+  }
+}
